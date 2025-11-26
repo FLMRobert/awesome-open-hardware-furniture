@@ -1,4 +1,4 @@
-# awesome-open-hardware-furniture
+# Awesome Open Hardware Furniture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
 
 Helpful resources for making open hardware furniture and  learning about open hardware furniture.
 
