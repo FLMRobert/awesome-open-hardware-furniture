@@ -34,6 +34,7 @@ Helpful resources for making open hardware furniture and  learning about open ha
 
 ## Tools
 * [SketchChair](https://www.sketchchair.cc/)
+* [OPENJOYN](https://openjoyn.milz.studio/) - Free online tool for parametric creation of furniture construction plans
 
 ## Videos
 * [YouTube: Sedia 1 chair by Enzo Mari](https://www.youtube.com/watch?v=9kMO93qYYbw) - Building Instructions for Sedia 1 chair by Enzo Mari
