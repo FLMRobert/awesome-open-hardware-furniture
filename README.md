@@ -41,6 +41,7 @@ Helpful resources for making open hardware furniture and  learning about open ha
 
 ## Further Readings
 * [Wikipedia: Enzo Mari](https://de.wikipedia.org/wiki/Enzo_Mari)
+* [Woodwiki](https://www.woodwiki.org/) - Free woodworking education wiki with ~230 guides on hand tools, power tools, joinery, wood species, and finishing. Evidence-driven, no affiliate links.
 
 ## Related awesome
 * [Awesome Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware)
